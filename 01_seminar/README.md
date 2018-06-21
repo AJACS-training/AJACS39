@@ -110,7 +110,7 @@
 <div class="plugin_fold_body"><p>例えば、'DBCLS'でGoogle検索しても「ライフサイエンス統合データベースセンター」以外の'DBCLS'はインターネット上にそれほどないため困らないのであるが、短い略語の場合は同義語がインターネット上に多数存在して調べたい情報に行き着くまでに非常に苦労することになります。</p>
 </div></li></ul>
 <p>つまり、こういうことです。</p>
-<p><span style="font-size:30px;display:inline-block;line-height:130%;text-indent:0px"><a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=donotgoogle.jpg&amp;refer=AJACS26%2Fbono" rel="nofollow">ググるなあぶない</a></span></p>
+<p><span style="font-size:30px;display:inline-block;line-height:130%;text-indent:0px"><a href="donotgoogle.jpg" rel="nofollow">ググるなあぶない</a></span></p>
 <blockquote><p class="quotation"><a href="http://allie.dbcls.jp/" rel="nofollow">http://allie.dbcls.jp/</a></p></blockquote>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>【実習D2】Allieを用いて'SPF'を検索してみなさい。共起している略語やその略語の専門分野を見ることで、1)実験用マウスを飼う環境を意味する'SPF'、2)日焼け止めクリームに書いてある'SPF'の略す前の形(long form)を調べよ。
 <a name="plugin_fold_anchor7"></a>
